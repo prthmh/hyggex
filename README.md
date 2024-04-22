@@ -1,8 +1,10 @@
-# React + Vite
+This is an assignment for React Js internship at Hyggex.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Texh Stack
 
-Currently, two official plugins are available:
+- React Js
+- Tailwind CSS
+- React Icons
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![ss-1](public/ss-1.png)
+![ss-2](public/ss-2.png)
